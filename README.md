@@ -30,7 +30,7 @@ RULE 03    Don't talk about RULE 02.
 ```
 
 <div align="center">
-  <img src="[assets/money.jpg](https://github.com/user-attachments/assets/55c994e7-96a0-4324-8d72-f6f22c96e09b)" alt="" width="240"> 
+  <img src="https://github.com/user-attachments/assets/55c994e7-96a0-4324-8d72-f6f22c96e09b" alt="" width="240"> 
 </div>
 
 ---
