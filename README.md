@@ -28,8 +28,7 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## ```diff
-@@           🕴️  THE BOSS              @@
+
 ```
 
 ```yaml
