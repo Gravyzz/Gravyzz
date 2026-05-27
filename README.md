@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- BANNER: загрузи картинку CE0,000,000 в репозиторий (например в папку assets/) и замени ссылку -->
-<img src="assets/ceo.jpeg" alt="CE0,000,000" width="600"/>
+
+<img src="<img width="581" height="131" alt="_" src="https://github.com/user-attachments/assets/a894fb87-d77a-4d0e-96a0-587c021455fe" />
+" alt="CE0,000,000" width="600"/>
 
 # 💸 ZAHAR — CE0,000,000 💸
 
