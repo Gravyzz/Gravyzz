@@ -67,10 +67,9 @@ RULE 03    Don't talk about RULE 02.
 ---
 
 <div align="center">
-  
-  src="https://github.com/user-attachments/assets/b05f3b29-e9f4-4096-8f47-ffa897810eeb" />
+ 
+<img src="https://github.com/user-attachments/assets/99fac8a8-8814-45a9-ae9e-b2a729f52547" />
 " alt="No Risk No Porsche" width="480">
-</div>
 
 <div align="center">
 
