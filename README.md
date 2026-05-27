@@ -29,9 +29,8 @@
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
-```
 
-```yaml
+```
 name:        Zahar
 alias:       Gravyzz
 location:    📍 Tomsk, Russia
@@ -69,16 +68,16 @@ flex:        "I write Java like Sinatra sang — smooth and timeless"
 ## 📈 THE NUMBERS
 
 <a href="https://github.com/Gravyzz">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Gravyzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=FFD700"/>
+  
 </a>
 <a href="https://github.com/Gravyzz">
-  <img height="195" src="https://streak-stats.demolab.com?user=Gravyzz&hide_border=true&background=0D1117&stroke=00FF41&ring=FFD700&fire=FFD700&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+  
 </a>
 
 <br/>
 
 <a href="https://github.com/Gravyzz">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyzz&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8"/>
+  
 </a>
 
 </div>
