@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="assets/title.jpg" alt="CE0,000,000" width="620"/>
+<img src="<img width="581" height="131" alt="title" src="https://github.com/user-attachments/assets/dc847ddf-784b-4ebe-a6c2-3ddbedf0c006" />
+" alt="CE0,000,000" width="620"/>
 
 <br/><br/>
 
@@ -45,7 +46,8 @@ RULE 03    Don't talk about RULE 02.
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="assets/money.jpg" alt="" width="220"/>
+<img src="<img width="460" height="460" alt="money" src="https://github.com/user-attachments/assets/c3d8a14f-aa09-49ed-9d17-7cf3833d5c55" />
+" alt="" width="220"/>
 
 <sub>`output of: while(true) { code(); }`</sub>
 
@@ -131,7 +133,8 @@ public final class Gravyzz {
 
 <br/>
 
-<img src="assets/quote.jpg" alt="No Risk No Porsche" width="480"/>
+<img src="<img width="616" height="302" alt="quote" src="https://github.com/user-attachments/assets/bfc960dd-fed1-4a00-b107-f3f8406da569" />
+" alt="No Risk No Porsche" width="480"/>
 
 <br/><br/>
 
