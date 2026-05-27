@@ -1,104 +1,195 @@
-<div align="center">
-
-
-<img src="<img width="581" height="131" alt="_" src="https://github.com/user-attachments/assets/a894fb87-d77a-4d0e-96a0-587c021455fe" />
-" alt="CE0,000,000" width="600"/>
-
-# 💸 ZAHAR — CE0,000,000 💸
-
-### `the boss is coding`
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=600&lines=Java+Developer+from+Tomsk;Building+empires%2C+one+commit+at+a+time;CEO+of+my+own+code;Money+talks.+Code+screams.)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gravyzz&style=for-the-badge&color=000000&label=RESPECT)
-![Followers](https://img.shields.io/github/followers/Gravyzz?style=for-the-badge&color=000000&labelColor=FFD700&label=THE+CREW)
-![Stars](https://img.shields.io/github/stars/Gravyzz?style=for-the-badge&color=FFD700&labelColor=000000&label=STARS+EARNED)
-
-</div>
-
----
-
-## 🕴️ THE BOSS
-
-```diff
-+ Location:  Tomsk, Russia
-+ Status:    Locked in. Grinding 24/7
-+ Language:  Java is the family business
-- Time off:  We don't take days off, we take over
-```
-
-> *"Stay broke or stay coding. The choice is yours."*
-
----
-
-## 🧰 TOOLS OF THE TRADE
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║              WELCOME TO THE MATRIX. BOSS EDITION.             ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📈 THE NUMBERS DON'T LIE
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gravyzz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyzz&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF"/>
+<a href="https://github.com/Gravyzz">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=280&section=header&text=CE0,000,000&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=the%20code%20made%20me%20rich&descAlignY=62&descSize=20&descAlign=50" width="100%"/>
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gravyzz&theme=black-ice&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+<a href="https://github.com/Gravyzz">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=720&height=70&lines=%3E+Initializing+boss_mode.exe...;%3E+Access+granted.+Welcome%2C+CEO.;%3E+Java+Developer+from+Tomsk+%E2%9A%A1;%3E+I+don't+chase+bugs.+They+run+from+me.;%3E+Stay+broke+or+stay+coding." alt="Typing"/>
+</a>
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Gravyzz&style=for-the-badge&color=00FF41&label=WITNESSES)](https://github.com/Gravyzz)
+[![Followers](https://img.shields.io/github/followers/Gravyzz?style=for-the-badge&color=000000&labelColor=00FF41&label=THE+CREW)](https://github.com/Gravyzz?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Gravyzz?style=for-the-badge&color=FFD700&labelColor=000000&label=STARS+EARNED)](https://github.com/Gravyzz)
 
 </div>
 
----
+<br/>
 
-## 💼 THE PORTFOLIO
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## ```diff
+@@           🕴️  THE BOSS              @@
+```
+
+```yaml
+name:        Zahar
+alias:       Gravyzz
+location:    📍 Tomsk, Russia
+occupation:  💼 Java CEO (Code Executive Officer)
+status:      🟢 Locked in. Grinding 24/7.
+mission:     Build the empire. Ship the code. Repeat.
+weakness:    ☕ Coffee. Lots of it.
+flex:        "I write Java like Sinatra sang — smooth and timeless"
+```
+
+<br clear="right"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚙️ TOOLS OF THE TRADE
+
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📈 THE NUMBERS
+
+<a href="https://github.com/Gravyzz">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Gravyzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=FFD700"/>
+</a>
+<a href="https://github.com/Gravyzz">
+  <img height="195" src="https://streak-stats.demolab.com?user=Gravyzz&hide_border=true&background=0D1117&stroke=00FF41&ring=FFD700&fire=FFD700&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Gravyzz">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyzz&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏆 THE TROPHY ROOM
+
+<a href="https://github.com/Gravyzz">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gravyzz&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 ACTIVITY MATRIX
+
+<a href="https://github.com/Gravyzz">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gravyzz&bg_color=0D1117&color=00FF41&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💻 THE PHILOSOPHY
 
 ```java
 public class Empire {
+
     private static final String CEO = "Zahar";
-    private boolean working = true;
+    private static final String[] RULES = {
+        "Code like nobody's watching",
+        "Ship like everybody is",
+        "Never trust untested code",
+        "The bug is always in the last place you look"
+    };
 
     public static void main(String[] args) {
-        while (true) {
+        while (alive()) {
             learn();
             build();
             ship();
-            // sleep() not implemented
+            // sleep() — method not found
         }
     }
 }
 ```
 
----
+<br/>
 
-## 🎯 THE MISSION
-
-- 🏗️ Building: `Game` · `task-manager` · `java-learning`
-- 📚 Studying: deeper Java, Spring, и всё что приносит чек
-- 🤝 Open to: коллабы, проекты, ботам — нет
-- 💭 Motto: **"From Tomsk to top of the leaderboard"**
-
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🐍 THE HUNT
+## 💭 WORDS OF WISDOM
 
-![Snake animation](https://raw.githubusercontent.com/Gravyzz/Gravyzz/output/github-contribution-grid-snake-dark.svg)
+<a href="https://github.com/Gravyzz">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
+</a>
 
----
+</div>
 
-**`If you're not first, you're last.`**
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🎯 THE MISSION
+
+| 🔨 Building | 📚 Learning | 🚀 Next |
+|:---:|:---:|:---:|
+| `Game` | Spring Framework | Microservices |
+| `task-manager` | Design Patterns | Cloud / Docker |
+| `java-learning` | Clean Architecture | World domination |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ☎️ THE LINE IS OPEN
+
+<a href="https://github.com/Gravyzz">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"From Tomsk to the top of the leaderboard."*
+>
+> **`If you're not first, you're last.`**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:000000&height=120&section=footer"/>
 
 </div>
