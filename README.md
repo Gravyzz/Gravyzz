@@ -30,9 +30,7 @@ RULE 03    Don't talk about RULE 02.
 ```
 
 <div align="center">
-  <img src="[assets/money.jpg](https://github.com/user-attachments/assets/55c994e7-96a0-4324-8d72-f6f22c96e09b)" alt="" width="240">
-  <br>
-  <sub><code>output of: while(true) { code(); }</code></sub>
+  <img src="[assets/money.jpg](https://github.com/user-attachments/assets/55c994e7-96a0-4324-8d72-f6f22c96e09b)" alt="" width="240"> 
 </div>
 
 ---
@@ -44,8 +42,8 @@ RULE 03    Don't talk about RULE 02.
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -53,17 +51,14 @@ RULE 03    Don't talk about RULE 02.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Gravyzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000)
 ![Streak](https://streak-stats.demolab.com?user=Gravyzz&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000)
-
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Gravyzz&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&area_color=DDDDDD&hide_border=true)
 
 ---
 
 ## `04 — THE PORTFOLIO`
-
 | `#` | `PROJECT` | `LANG` | `STATUS` |
 |:---:|:---|:---:|:---:|
-| `01` | **Game** &nbsp;—&nbsp; <sub>MakeLove</sub> | `TypeScript<img width="616" height="302" alt="quote" src="https://github.com/user-attachments/assets/8950cafc-8439-4dec-b495-509912765368" />
-` | `LIVE` |
+| `01` | **Game** &nbsp;—&nbsp; <sub>MakeLove</sub> | `TypeScript` | `LIVE` |
 | `02` | **task-manager** &nbsp;—&nbsp; <sub>get things done</sub> | `JAVA` | `BUILDING` |
 | `03` | **java-learning** &nbsp;—&nbsp; <sub>sharpening the blade</sub> | `JAVA` | `ONGOING` |
 
@@ -73,7 +68,7 @@ RULE 03    Don't talk about RULE 02.
 
 <div align="center">
   
-  <img src="https://github.com/user-attachments/assets/705eddc8-420a-4e32-b3f2-f36f782b6ce0<img width="460" height="460" alt="money" src="https://github.com/user-attachments/assets/b05f3b29-e9f4-4096-8f47-ffa897810eeb" />
+  src="https://github.com/user-attachments/assets/b05f3b29-e9f4-4096-8f47-ffa897810eeb" />
 " alt="No Risk No Porsche" width="480">
 </div>
 
