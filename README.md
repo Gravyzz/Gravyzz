@@ -1,33 +1,19 @@
-<!-- ═══════════════════════════════════════════════════════════════
-                       NO RISK. NO PORSCHE.
-   ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+  <img src="https://github.com/user-attachments/assets/439295ce-0309-40b4-9b00-d464f737e73f" alt="CE0,000,000" width="620">
+</div>
+
+---
 
 <div align="center">
 
-<img src="<img width="581" height="131" alt="title" src="https://github.com/user-attachments/assets/dc847ddf-784b-4ebe-a6c2-3ddbedf0c006" />
-" alt="CE0,000,000" width="620"/>
-
-<br/><br/>
-
-`╶───────────────────────────────────────────╴`
-
-**ZAHAR — `@Gravyzz`** &nbsp;·&nbsp; TOMSK &nbsp;·&nbsp; JAVA
-
-`╶───────────────────────────────────────────╴`
-
-<br/>
+**ZAHAR** &nbsp;·&nbsp; `@Gravyzz` &nbsp;·&nbsp; TOMSK &nbsp;·&nbsp; JAVA
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=3200&pause=900&color=000000&center=true&vCenter=true&width=720&height=50&lines=I+don't+write+code.+I+write+legacy.;Java+is+the+family+business.;Make+it+clean.+Make+it+work.+Make+it+last.;No+risk.+No+Porsche.)](https://github.com/Gravyzz)
 
 </div>
 
-<br/><br/>
-
-<!-- ═════════════════════ DOSSIER ═════════════════════ -->
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+---
 
 ## `01 — THE DOSSIER`
 
@@ -43,25 +29,15 @@ RULE 02    Refactor it tomorrow.
 RULE 03    Don't talk about RULE 02.
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
+<div align="center">
+  <img src="[assets/money.jpg](https://github.com/user-attachments/assets/55c994e7-96a0-4324-8d72-f6f22c96e09b)" alt="" width="240">
+  <br>
+  <sub><code>output of: while(true) { code(); }</code></sub>
+</div>
 
-<img src="<img width="460" height="460" alt="money" src="https://github.com/user-attachments/assets/c3d8a14f-aa09-49ed-9d17-7cf3833d5c55" />
-" alt="" width="220"/>
-
-<sub>`output of: while(true) { code(); }`</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═════════════════════ STACK ═════════════════════ -->
+---
 
 ## `02 — THE STACK`
-
-<p>
 
 ![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-000000?style=for-the-badge&logo=spring&logoColor=white)
@@ -71,82 +47,40 @@ RULE 03    Don't talk about RULE 02.
 ![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-</p>
-
-<br/>
-
-<!-- ═════════════════════ NUMBERS ═════════════════════ -->
+---
 
 ## `03 — THE NUMBERS`
 
-<p>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gravyzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000"/>
-<img height="180" src="https://streak-stats.demolab.com?user=Gravyzz&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Gravyzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000)
+![Streak](https://streak-stats.demolab.com?user=Gravyzz&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000)
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gravyzz&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&area_color=DDDDDD&hide_border=true"/>
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Gravyzz&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&area_color=DDDDDD&hide_border=true)
 
-<br/>
-
-<!-- ═════════════════════ PORTFOLIO ═════════════════════ -->
+---
 
 ## `04 — THE PORTFOLIO`
 
 | `#` | `PROJECT` | `LANG` | `STATUS` |
 |:---:|:---|:---:|:---:|
-| `01` | **Game** &nbsp;—&nbsp; <sub>tap-tap-didi</sub> | `JAVA` | `LIVE` |
+| `01` | **Game** &nbsp;—&nbsp; <sub>MakeLove</sub> | `TypeScript<img width="616" height="302" alt="quote" src="https://github.com/user-attachments/assets/8950cafc-8439-4dec-b495-509912765368" />
+` | `LIVE` |
 | `02` | **task-manager** &nbsp;—&nbsp; <sub>get things done</sub> | `JAVA` | `BUILDING` |
 | `03` | **java-learning** &nbsp;—&nbsp; <sub>sharpening the blade</sub> | `JAVA` | `ONGOING` |
-| `04` | **Gravyzz** &nbsp;—&nbsp; <sub>this profile</sub> | `MD` | `LIVE` |
 
-<br/>
 
-<!-- ═════════════════════ MANIFESTO ═════════════════════ -->
 
-## `05 — THE MANIFESTO`
+---
 
-```java
-public final class Gravyzz {
-
-    private static final String[] CODE = {
-        "Show up.",
-        "Stay sharp.",
-        "Ship clean code.",
-        "Sleep is for runtime."
-    };
-
-    public static void main(String... args) {
-        for (;;) {
-            grind();
-            commit();
-            // Nothing else.
-        }
-    }
-}
-```
-
-<br/>
-
-<!-- ═════════════════════ CLOSER ═════════════════════ -->
+<div align="center">
+  
+  <img src="https://github.com/user-attachments/assets/705eddc8-420a-4e32-b3f2-f36f782b6ce0<img width="460" height="460" alt="money" src="https://github.com/user-attachments/assets/b05f3b29-e9f4-4096-8f47-ffa897810eeb" />
+" alt="No Risk No Porsche" width="480">
+</div>
 
 <div align="center">
 
-<br/>
-
-<img src="<img width="616" height="302" alt="quote" src="https://github.com/user-attachments/assets/bfc960dd-fed1-4a00-b107-f3f8406da569" />
-" alt="No Risk No Porsche" width="480"/>
-
-<br/><br/>
-
-`╶───────────────────────────────────────────╴`
-
 **`FROM TOMSK. WITH CODE.`**
 
-`╶───────────────────────────────────────────╴`
-
-<br/>
-
-![Views](https://img.shields.io/badge/dynamic/json?color=000000&style=for-the-badge&label=WITNESSES&query=%24.message&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DGravyzz%26format%3Djson)
 ![Followers](https://img.shields.io/github/followers/Gravyzz?style=for-the-badge&color=000000&labelColor=000000&label=THE+CREW)
 ![Stars](https://img.shields.io/github/stars/Gravyzz?style=for-the-badge&color=000000&labelColor=000000&label=STARS)
 
