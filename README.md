@@ -1,7 +1,3 @@
-//<div align="center">
-
-//  <img src="https://github.com/user-attachments/assets/439295ce-0309-40b4-9b00-d464f737e73f" alt="CE0,000,000" width="620">
-//</div>
 
 ---
 
