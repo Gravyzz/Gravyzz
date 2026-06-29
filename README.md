@@ -1,6 +1,3 @@
-
----
-
 <div align="center">
 
 **ZAHAR** &nbsp;·&nbsp; `@Gravyzz` &nbsp;·&nbsp; TOMSK &nbsp;·&nbsp; JAVA
@@ -25,8 +22,6 @@ RULE 02    Refactor it tomorrow.
 RULE 03    Don't talk about RULE 02.
 ```
 
-
-
 ---
 
 ## `02 — THE STACK`
@@ -36,7 +31,6 @@ RULE 03    Don't talk about RULE 02.
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white)
-
 
 ---
 
@@ -49,20 +43,21 @@ RULE 03    Don't talk about RULE 02.
 ---
 
 ## `04 — THE PORTFOLIO`
+
 | `#` | `PROJECT` | `LANG` | `STATUS` |
 |:---:|:---|:---:|:---:|
-| `01` | **Game** &nbsp;—&nbsp; <sub>MakeLove</sub> | `TypeScript` | `LIVE` |
-| `02` | **task-manager** &nbsp;—&nbsp; <sub>get things done</sub> | `JAVA` | `BUILDING` |
+| `01` | **Trading-Simulator** &nbsp;—&nbsp; <sub>the market never sleeps</sub> | `JAVA` | `SHIPPED` |
+| `02` | **Task-Manager** &nbsp;—&nbsp; <sub>get things done</sub> | `JAVA` | `SHIPPED` |
 | `03` | **java-learning** &nbsp;—&nbsp; <sub>sharpening the blade</sub> | `JAVA` | `ONGOING` |
-
-
+| `04` | **Game** &nbsp;—&nbsp; <sub>MakeLove</sub> | `TypeScript` | `LIVE` |
 
 ---
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/99fac8a8-8814-45a9-ae9e-b2a729f52547" alt="No Risk No Porsche" width="480">
 </div>
-<div align="center">
 
+<div align="center">
 
 **`FROM TOMSK. WITH CODE.`**
 
