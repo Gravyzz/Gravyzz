@@ -49,7 +49,7 @@ RULE 03    Don't talk about RULE 02.
 | `01` | **Trading-Simulator** &nbsp;—&nbsp; <sub>the market never sleeps</sub> | `JAVA` | `SHIPPED` |
 | `02` | **Task-Manager** &nbsp;—&nbsp; <sub>get things done</sub> | `JAVA` | `SHIPPED` |
 | `03` | **java-learning** &nbsp;—&nbsp; <sub>sharpening the blade</sub> | `JAVA` | `ONGOING` |
-| `04` | **Game** &nbsp;—&nbsp; <sub>MakeLove</sub> | `TypeScript` | `LIVE` |
+| `04` | **Game** &nbsp;—&nbsp; <sub>MakeLovePizzaGame</sub> | `TypeScript` | `LIVE` |
 
 ---
 
