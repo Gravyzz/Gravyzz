@@ -1,67 +1,86 @@
 <div align="center">
 
-**ZAHAR** &nbsp;·&nbsp; `@Gravyzz` &nbsp;·&nbsp; TOMSK &nbsp;·&nbsp; JAVA
+# Zahar &nbsp;·&nbsp; `@Gravyzz`
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=3200&pause=900&color=000000&center=true&vCenter=true&width=720&height=50&lines=I+don't+write+code.+I+write+legacy.;Java+is+the+family+business.;Make+it+clean.+Make+it+work.+Make+it+last.;No+risk.+No+Porsche.)](https://github.com/Gravyzz)
+### Java Backend Developer · CS Student
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Java+Backend+Developer;Student+at+Tomsk+State+University;Building+clean%2C+reliable+backends;Open+to+internship+%26+junior+roles)](https://github.com/Gravyzz)
+
+📍 Tomsk, Russia &nbsp;·&nbsp; 🕘 UTC+7 &nbsp;·&nbsp; 🎓 Tomsk State University
 
 </div>
 
 ---
 
-## `01 — THE DOSSIER`
+## 👋 About me
 
-```
-NAME       Zahar
-ALIAS      Gravyzz
-BASE       Tomsk, RU
-TRADE      Java Developer
-STATUS     Locked in. Building.
-HOURS      24 / 7 / 365
-RULE 01    Ship it.
-RULE 02    Refactor it tomorrow.
-RULE 03    Don't talk about RULE 02.
-```
+I'm a Java-focused developer and computer-science student in Tomsk. I like turning
+problems into clean, maintainable backend code — right now I'm strengthening my
+core Java, data structures and concurrency skills, and building real projects to
+back them up. I also work in C++ through my university coursework.
+
+- 🎯 Focused on **Java backend** development
+- 🌱 Currently learning **Spring Boot, SQL databases and REST APIs**
+- 💼 Open to **internship / junior** opportunities
+- 🧱 I care about code that's readable today and maintainable tomorrow
 
 ---
 
-## `02 — THE STACK`
+## 🛠 Tech stack
 
-![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white)
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Tools & environment**
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Currently learning**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📂 Featured projects
+
+| Project | What it is | Stack |
+| :------ | :--------- | :---- |
+| [**Trading-Simulator**](https://github.com/Gravyzz/Trading-Simulator) | Stock-market trading simulator — place buy/sell orders, track a portfolio and follow price changes. | `Java` |
+| [**Task-Manager**](https://github.com/Gravyzz/Task-Manager) | Application to create, organize and track tasks through their lifecycle. | `Java` |
+| [**java-learning**](https://github.com/Gravyzz/java-learning) | Ongoing practice repo — OOP, collections, concurrency and algorithm exercises. | `Java` |
+| [**Multithreading**](https://github.com/Gravyzz/Multithreading) | Experiments with threads, synchronization and parallelism. | `C++` |
+| [**algorithms-cpp**](https://github.com/Gravyzz/algorithms-cpp) | Classic algorithms and data structures implemented from scratch. | `C++` |
 
 ---
 
-## `03 — THE NUMBERS`
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Gravyzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000)
-![Streak](https://streak-stats.demolab.com?user=Gravyzz&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Gravyzz&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&area_color=DDDDDD&hide_border=true)
-
----
-
-## `04 — THE PORTFOLIO`
-
-| `#` | `PROJECT` | `LANG` | `STATUS` |
-|:---:|:---|:---:|:---:|
-| `01` | **Trading-Simulator** &nbsp;—&nbsp; <sub>the market never sleeps</sub> | `JAVA` | `SHIPPED` |
-| `02` | **Task-Manager** &nbsp;—&nbsp; <sub>get things done</sub> | `JAVA` | `SHIPPED` |
-| `03` | **java-learning** &nbsp;—&nbsp; <sub>sharpening the blade</sub> | `JAVA` | `ONGOING` |
-| `04` | **Game** &nbsp;—&nbsp; <sub>MakeLovePizzaGame</sub> | `TypeScript` | `LIVE` |
-
----
+## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/99fac8a8-8814-45a9-ae9e-b2a729f52547" alt="No Risk No Porsche" width="480">
+
+![Zahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gravyzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravyzz&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8B949E)
+
+![GitHub streak](https://streak-stats.demolab.com?user=Gravyzz&hide_border=true&background=00000000&stroke=8B949E&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&excludeDaysLabel=8B949E)
+
 </div>
 
+---
+
+## 🤝 Connect
+
 <div align="center">
 
-**`FROM TOMSK. WITH CODE.`**
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your-username)
 
-![Followers](https://img.shields.io/github/followers/Gravyzz?style=for-the-badge&color=000000&labelColor=000000&label=THE+CREW)
-![Stars](https://img.shields.io/github/stars/Gravyzz?style=for-the-badge&color=000000&labelColor=000000&label=STARS)
+<br>
+
+<sub>Made in Tomsk · Java is the craft.</sub>
 
 </div>
