@@ -12,6 +12,10 @@
 
 **[Task-Manager](https://github.com/Gravyzz/Task-Manager)** — CLI-менеджер задач на чистой Java. Слоистая структура, свои исключения, валидация ввода.
 
+
+
+https://github.com/Gravyzz/shift-backend-client-service
+
 **[Multithreading](https://github.com/Gravyzz/Multithreading)** — модель диспетчерской системы на C++17: 2 + n×m потоков, мьютексы и условные переменные, приоритетные очереди, корректное завершение через `join`. Проверено под ThreadSanitizer.
 
 **[Laboratory-work-parallel-computing](https://github.com/Gravyzz/Laboratory-work-parallel-computing)** — три фильтра изображений в четырёх реализациях: последовательная, OpenMP, SIMD ARM NEON, OpenCL. Задание было под x86_64 — переносил на Apple Silicon и обосновывал каждую замену в отчёте.
