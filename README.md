@@ -12,9 +12,7 @@
 
 **[Task-Manager](https://github.com/Gravyzz/Task-Manager)** — CLI-менеджер задач на чистой Java. Слоистая структура, свои исключения, валидация ввода.
 
-
-
-https://github.com/Gravyzz/shift-backend-client-service
+**[Сlient-service](https://github.com/Gravyzz/shift-backend-client-service)** — Микросервис Spring Boot: импорт пользователей из CSV с валидацией и статистикой
 
 **[Multithreading](https://github.com/Gravyzz/Multithreading)** — модель диспетчерской системы на C++17: 2 + n×m потоков, мьютексы и условные переменные, приоритетные очереди, корректное завершение через `join`. Проверено под ThreadSanitizer.
 
