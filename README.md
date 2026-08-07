@@ -26,8 +26,6 @@
 
 Java · Spring Boot · PostgreSQL · Git · Maven · Docker · Linux · C++ · Python
 
-**Хочу разобраться:** тестирование, шаблоны проектирования, SQL.
-
 ---
 
 Томск · [Telegram](https://t.me/gravyzz) · zaharartamontsev@gmail.com
